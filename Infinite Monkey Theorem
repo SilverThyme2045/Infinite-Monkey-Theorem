@@ -1,0 +1,111 @@
+import random
+import sys
+random_num = random.randint(1,26)
+if random_num == 1:
+  sys.stdout.write("A")
+if random_num == 2:
+  sys.stdout.write("B")
+if random_num == 3:
+  sys.stdout.write("C")
+if random_num == 4:
+  sys.stdout.write("D")
+if random_num == 5:
+  sys.stdout.write("E")
+if random_num == 6:
+  sys.stdout.write("F")
+if random_num == 7:
+  sys.stdout.write("G")
+if random_num == 8:
+  sys.stdout.write("H")
+if random_num == 9:
+  sys.stdout.write("I")
+if random_num == 10:
+  sys.stdout.write("J")
+if random_num == 11:
+  sys.stdout.write("K")
+if random_num == 12:
+  sys.stdout.write("L")
+if random_num == 13:
+  sys.stdout.write("M")
+if random_num == 14:
+  sys.stdout.write("N")
+if random_num == 15:
+  sys.stdout.write("O")
+if random_num == 16:
+  sys.stdout.write("P")
+if random_num == 17:
+  sys.stdout.write("Q")
+if random_num == 18:
+  sys.stdout.write("R")
+if random_num == 19:
+  sys.stdout.write("S")
+if random_num == 20:
+  sys.stdout.write("T")
+if random_num == 21:
+  sys.stdout.write("U")
+if random_num == 22:
+  sys.stdout.write("V")
+if random_num == 23:
+  sys.stdout.write("W")
+if random_num == 24:
+  sys.stdout.write("X")
+if random_num == 25:
+  sys.stdout.write("Y")
+if random_num == 26:
+  sys.stdout.write("Z")
+for x in range(1, 100000000000000000):
+  random_num_3 = random.randint(1,27)
+  if random_num_3 == 1:
+    sys.stdout.write("a")
+  if random_num_3 == 2:
+    sys.stdout.write("b")
+  if random_num_3 == 3:
+    sys.stdout.write("c")
+  if random_num_3 == 4:
+    sys.stdout.write("d")
+  if random_num_3 == 5:
+    sys.stdout.write("e")
+  if random_num_3 == 6:
+    sys.stdout.write("f")
+  if random_num_3 == 7:
+    sys.stdout.write("g")
+  if random_num_3 == 8:
+    sys.stdout.write("h")
+  if random_num_3 == 9:
+   sys.stdout.write("i")
+  if random_num_3 == 10:
+    sys.stdout.write("j")
+  if random_num_3 == 11:
+    sys.stdout.write("k")
+  if random_num_3 == 12:
+    sys.stdout.write("l")
+  if random_num_3 == 13:
+    sys.stdout.write("m")
+  if random_num_3 == 14:
+    sys.stdout.write("n")
+  if random_num_3 == 15:
+    sys.stdout.write("o")
+  if random_num_3 == 16:
+    sys.stdout.write("p")
+  if random_num_3 == 17:
+    sys.stdout.write("q")
+  if random_num_3 == 18:
+    sys.stdout.write("r")
+  if random_num_3 == 19:
+    sys.stdout.write("s")
+  if random_num_3 == 20:
+    sys.stdout.write("t")
+  if random_num_3 == 21:
+    sys.stdout.write("u")
+  if random_num_3 == 22:
+    sys.stdout.write("v")
+  if random_num_3 == 23:
+    sys.stdout.write("w")
+  if random_num_3 == 24:
+    sys.stdout.write("x")
+  if random_num_3 == 25:
+    sys.stdout.write("y")
+  if random_num_3 == 26:
+    sys.stdout.write("z")
+  if random_num_3 == 27:
+    sys.stdout.write(" ")
